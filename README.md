@@ -1,7 +1,8 @@
 # Bitcoin-Simulator-master
 
 Clone the Bitcoin Simulator.
-The Bitcoin Simulator is built on ns3 and it has been tested with versions 3.24 and 3.25. So, go to the official site and grab a suitable release. Detailed installation instructions for various platforms can be found here.
+The Bitcoin Simulator is built on ns3 and it has been tested with versions 3.24 and 3.25. So, go to the official site and grab a suitable release. Detailed installation instructions for various platforms can be found here. https://www.nsnam.org/releases/ns-3-25/download/
+
 Untar it with the following command:
 
 tar xvfj ns-allinone-3.25.tar.bz2
